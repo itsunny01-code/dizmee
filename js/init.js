@@ -434,7 +434,7 @@ function Sunny_tm_contact_form() {
         "modal/contact.html",
         {
           ajax_name: name,
-          ajax_email: email,
+          ajax_email: "contactsunny07@gmail.com",
           ajax_message: message,
           ajax_subject: subject,
         },
